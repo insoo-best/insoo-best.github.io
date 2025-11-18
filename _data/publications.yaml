@@ -19,7 +19,7 @@ papers:
     selected: y
 
   - title: "Controllable Blur Data Augmentation Using 3D-Aware Motion Estimation"
-    authors: "<u><b>Insoo Kim</b></u>, Hana Lee, Juhan Park, Hyong-Euk Lee, and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    authors: "<u><b>Insoo Kim</b></u>, Hana Lee, Hyong-Euk Lee, and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "ICLR 2025"
     paper_pdf: "https://openreview.net/forum?id=Wvi8c0tgvt"
     selected: y

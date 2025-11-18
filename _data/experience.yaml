@@ -1,16 +1,29 @@
 experiences:
-- place: "Korea Univ. CS"
-  time: "Mar. 2020 - Current"
-  title: "B.S. in Korea Univ. CSE"
+- place: "KAIST ALIN-LAB"
+  time: "Aug. 2023 - Present"
+  title: "Ph.D Student, Graduate School of AI"
   category: "school"
 
-- place: "Acreal"
-  time: "Jan. 2023 - Feb. 2023"
-  title: "AI Research Intern"
-  subtitle: "Startup"
+- place: "Samsung Advanced Institute of Technology (SAIT)"
+  time: "Nov. 2017 - Present"
+  title: "Principal Researcher"
   category: "work"
 
-- place: "Korea Univ."
+- place: "Mando"
+  time: "Jan. 2011 - Oct. 2017"
+  title: "Senior Researcher"
+  category: "work"
+
+- place: "KAIST SSSC Lab"
+  time: "Feb. 2009 - Feb. 2011"
+  title: "M.S., Graduate School of Electrical Engineering"
+  category: "school"
+
+- place: "Inha Univ."
+  time: "Feb. 2006 - Feb. 2009"
+  title: "B.S., Electronic Engineering"
+  category: "school"
+
   time: "Mar. 2020 - Current"
   title: "B.S. in Computer Science & Engineering and Statistics"
   category: "school"

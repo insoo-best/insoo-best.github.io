@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Photorealistic Motion Deblurring via Flow-Based Generative Models"
+    authors: "<u><b>Insoo Kim</b></u> and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "CVPR 2026 (under review)"
+    paper_pdf: ""
+    selected: y
+
   - title: "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning"
     authors: "<u><b>Byungwoo Jeon</b></u><sup>*</sup>, <a href='https://kingdy2002.github.io/'>Dongyoung Kim</a><sup>*</sup>, <a href='https://huiwon-jang.github.io'>Huiwon Jang</a>, Insoo Kim, and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "NeurIPS Workshop on Space in Vision, Language, and Embodied AI, 2025"
@@ -7,16 +13,45 @@ papers:
     project: "https://rootyjeon.github.io/spatialboost/"
     selected: y
 
-  - title: "Learning Feasibility from Failure Data in Vision–Language–Action Models"
-    authors: "<u><b>Byungwoo Jeon</b></u>, <a href='https://jeongeun-park-page.github.io/'>Jeongeun Park</a>, Jihwan Yoon, Juhan Park, <a href='https://sites.google.com/view/railab/professor'>Kyungjae Lee</a>, <a href='https://nhcho91.github.io/index.html'>Namhoon Cho</a>, <a href='https://sangdooyun.github.io/'>Sangdoo Yun</a>, and <a href='https://sites.google.com/view/sungjoon-choi/personal?authuser=0'>Sungjoon Choi</a>"
-    venue: "CoRL Workshop on Safe and Robust Robot Learning for Operation in the Real World, 2025"
-    paper_pdf: ""
+  - title: "RefDeblur: Blind Motion Deblurring with Self-Generated Reference Image"
+    authors: "<u><b>Insoo Kim</b></u>, Geonseok Seo, Hyong-Euk Lee, and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "TMLR 2025"
+    paper_pdf: "https://openreview.net/forum?id=Nyewu7xztw"
     selected: y
 
-  - title: "TrackIME: Enhanced Video Point Tracking via Instance Motion Estimation"
-    authors: "<a href='https://www.shpark.org'>Seong Hyeon Park</a>, <a href='https://huiwon-jang.github.io'>Huiwon Jang</a>, <u><b>Byungwoo Jeon</b></u>, <a href='https://sites.google.com/view/sukmin-yun'>Sukmin Yun</a>, <a href='https://phseo.github.io'>Paul Hongsuck Seo</a>, and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "Conference on Neural Information Processing Systems (NeurIPS), 2024, <span style='color: red;'><b>Spotlight Presentation</b></span>"
-    paper_pdf: "/assets/papers/TrackIME.pdf"
-    project: "https://openreview.net/forum?id=eKHQbgvL3G&noteId=1FfKWp17dK"
-    code: "https://github.com/kami93/trackime"
+  - title: "Controllable Blur Data Augmentation Using 3D-Aware Motion Estimation"
+    authors: "<u><b>Insoo Kim</b></u>, Hana Lee, Juhan Park, Hyong-Euk Lee, and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "ICLR 2025"
+    paper_pdf: "https://openreview.net/forum?id=Wvi8c0tgvt"
     selected: y
+
+  - title: "Real-World Efficient Blind Motion Deblurring via Blur Pixel Discretization"
+    authors: "<u><b>Insoo Kim</b></u>, Jae Seok Choi, Geonseok Seo, Kinam Kwon, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, and Hyong-Euk Lee"
+    venue: "CVPR 2024"
+    paper_pdf: "https://arxiv.org/abs/2404.12168"
+    selected: y
+
+  - title: "Quality-Agnostic Image Recognition via Invertible Decoder"
+    authors: "<u><b>Insoo Kim</b></u>, Seungju Han, Ji-won Baek, Seong-Jin Park, Jae-Joon Han, and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "CVPR 2021"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2021/html/Kim_Quality-Agnostic_Image_Recognition_via_Invertible_Decoder_CVPR_2021_paper.html"
+    selected: y
+
+  - title: "DiscFace: Minimum Discrepancy Learning for Deep Face Recognition"
+    authors: "<u><b>Insoo Kim</b></u>, Seungju Han, Seong-Jin Park, Ji-won Baek, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, Jae-Joon Han, and Changkyu Choi"
+    venue: "ACCV 2020"
+    paper_pdf: "https://openaccess.thecvf.com/content/ACCV2020/html/Kim_DiscFace_Minimum_Discrepancy_Learning_for_Deep_Face_Recognition_ACCV_2020_paper.html"
+    selected: y
+
+  - title: "Meta variance transfer: Learning to augment from the others"
+    authors: "Seong-Jin Park, Seungju Han, Ji-Won Baek, <u><b>Insoo Kim</b></u>, Juhwan Song, Hae Beom Lee, Jae-Joon Han, and Sung Ju Hwang"
+    venue: "ICML 2020"
+    paper_pdf: "https://proceedings.mlr.press/v119/park20b.html"
+    selected: y
+
+  - title: "Deep Speaker Representation Using Orthogonal Decomposition and Recombination for Speaker Verification"
+    authors: "<u><b>Insoo Kim</b></u>, Kyuhong Kim, Jiwhan Kim, and Changkyu Choi"
+    venue: "ICASSP 2019"
+    paper_pdf: "https://ieeexplore.ieee.org/document/8683332"
+    selected: y
+    

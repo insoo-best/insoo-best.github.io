@@ -42,7 +42,7 @@ papers:
     paper_pdf: "https://openaccess.thecvf.com/content/ACCV2020/html/Kim_DiscFace_Minimum_Discrepancy_Learning_for_Deep_Face_Recognition_ACCV_2020_paper.html"
     selected: y
 
-  - title: "Meta variance transfer: Learning to augment from the others"
+  - title: "Meta Variance Transfer: Learning to Augment from The Others"
     authors: "Seong-Jin Park, Seungju Han, Ji-Won Baek, <u><b>Insoo Kim</b></u>, Juhwan Song, Hae Beom Lee, Jae-Joon Han, and Sung Ju Hwang"
     venue: "ICML 2020"
     paper_pdf: "https://proceedings.mlr.press/v119/park20b.html"
@@ -54,3 +54,14 @@ papers:
     paper_pdf: "https://ieeexplore.ieee.org/document/8683332"
     selected: y
     
+  - title: "Analysis on Mutual Interference in Automotive Radar System Using FMCW Waveform"
+    authors: "<u><b>Insoo Kim</b></u>, Kyeongjin Song, Hwanjoon Kang, Seongung Yun, Seonghee Jeong, and Junnam Oh"
+    venue: "AVEC 2012"
+    paper_pdf: ""
+    selected: n
+
+  - title: "Emotion Recognition Using Normalized Histogram of Speech Features"
+    authors: "<u><b>Insoo Kim</b></u>, Myung Jong Kim, and Hoirin Kim"
+    venue: "APSIPA 2010"
+    paper_pdf: ""
+    selected: n

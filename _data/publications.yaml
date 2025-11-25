@@ -58,10 +58,10 @@ papers:
     authors: "<u><b>Insoo Kim</b></u>, Kyeongjin Song, Hwanjoon Kang, Seongung Yun, Seonghee Jeong, and Junnam Oh"
     venue: "AVEC 2012"
     paper_pdf: ""
-    selected: n
+    selected: y
 
   - title: "Emotion Recognition Using Normalized Histogram of Speech Features"
     authors: "<u><b>Insoo Kim</b></u>, Myung Jong Kim, and Hoirin Kim"
     venue: "APSIPA 2010"
     paper_pdf: ""
-    selected: n
+    selected: y

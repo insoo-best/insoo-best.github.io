@@ -42,7 +42,7 @@ papers:
     paper_pdf: "https://openaccess.thecvf.com/content/ACCV2020/html/Kim_DiscFace_Minimum_Discrepancy_Learning_for_Deep_Face_Recognition_ACCV_2020_paper.html"
     selected: y
 
-  - title: "Meta Variance Transfer: Learning to Augment from The Others"
+  - title: "Meta Variance Transfer: Learning to Augment from the Others"
     authors: "Seong-Jin Park, Seungju Han, Ji-Won Baek, <u><b>Insoo Kim</b></u>, Juhwan Song, Hae Beom Lee, Jae-Joon Han, and Sung Ju Hwang"
     venue: "ICML 2020"
     paper_pdf: "https://proceedings.mlr.press/v119/park20b.html"

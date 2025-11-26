@@ -1,9 +1,9 @@
 papers:
   - title: "Photorealistic Motion Deblurring via Flow-Based Generative Models"
     authors: "<u><b>Insoo Kim</b></u> and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "Under Review"
+    venue: "CVPR 2026 (Under Review)"
     paper_pdf: ""
-    selected: y
+    selected: n
 
   - title: "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning"
     authors: "<a href='https://rootyjeon.github.io/'>Byungwoo Jeon</a><sup>*</sup>, <a href='https://kingdy2002.github.io/'>Dongyoung Kim</a><sup>*</sup>, <a href='https://huiwon-jang.github.io'>Huiwon Jang</a>, <u><b>Insoo Kim</b></u>, and <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
